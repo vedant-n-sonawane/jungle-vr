@@ -1,0 +1,14 @@
+JUNGLE VR - single file version
+===============================
+This zip contains ONE real file: index.html (everything is inside it - no folders needed).
+
+Upload to GitHub (replaces the old index.html):
+ 1. Open your repository -> Add file -> Upload files
+ 2. Drag ONLY index.html into the page  (not this txt file)
+ 3. Commit changes
+ 4. Settings -> Pages -> Deploy from a branch -> main, / (root) -> Save
+    (if Save is greyed out: Settings -> General -> bottom -> Change visibility -> Public)
+ 5. After 1-2 minutes open  https://YOUR-USERNAME.github.io/YOUR-REPO/  in Meta Quest Browser
+    and press ENTER VR.
+
+No GitHub? Go to https://app.netlify.com/drop and drag index.html onto the page.
